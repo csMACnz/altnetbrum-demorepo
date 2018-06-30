@@ -1,4 +1,4 @@
 This is a file.
 Actually want this.
-Middle text
+Some middle text.
 These are more words.
